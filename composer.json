@@ -1,0 +1,21 @@
+{
+    "name": "insaneskull/yii2-materialize-widgets",
+    "description": "This is a set of widgets based on an improved version of MAZA CSS framework - MaterializeCSS framework for Yii2.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","Yii2-materialize","materialize"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "InsaneSkull",
+            "email": "padiaankit@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "skull\\materialize\\": ""
+        }
+    }
+}
