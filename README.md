@@ -28,4 +28,5 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \skull\materialize\AutoloadExample::widget(); ?>```
+<?= \skull\materialize\AutoloadExample::widget(); ?>
+```
